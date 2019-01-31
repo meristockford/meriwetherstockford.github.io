@@ -1,0 +1,17 @@
+h1{
+    font-size: 260%;
+    font-weight:bold;
+    color:darkblue;
+}
+h2{
+    font-size: 150%;
+    font-weight:bold;
+    color: gray;
+}
+body {
+background: azure;
+    color:gray;
+    font-size: 16pt;
+    font-family: 'Lora', serif;
+
+}
